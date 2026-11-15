@@ -1,0 +1,6 @@
+{
+  "name": "World Languages",
+  "description": "Free, AI-powered multilingual education platform across 21 languages founded by Begzad Kurbanbayev.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
